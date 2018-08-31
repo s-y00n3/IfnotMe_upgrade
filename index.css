@@ -1,0 +1,19 @@
+#slide{
+ float:left;
+  width:40%;
+}
+#mainright{
+ float:right;
+}
+#sound{
+  clear:both;
+}
+#what{
+  
+  color:white; font-size:1em; 
+  text-decoration: none;
+}
+#what:hover{
+  opacity: 0.5;
+  text-decoration: none;
+}
